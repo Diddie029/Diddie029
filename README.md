@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌐Frontend Developer – working on building sleek and responsive web interfaces.  <br>- 🖧 Network Administrator – managing and maintaining networks efficiently.  <br>- 🔒Aspiring Cybersecurity Enthusiast – currently learning and exploring the world of cybersecurity. 
+- 🌐Frontend Developer | Entry-Level Web Developer | currently expanding skills in cybersecurity and networking .  <br>- 🖧 Network Administrator – managing and maintaining networks efficiently.  <br>- 🔒Cybersecurity Enthusiast – exploring the world of cybersecurity. 
 
 
 ## 🌐 Socials:
