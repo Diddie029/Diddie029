@@ -2,7 +2,6 @@
 - 🌐Frontend Developer | Entry-Level Web Developer | Front-end developer .  <br>- 🖧 Network Administrator – managing and maintaining networks efficiently.  <br>- 🔒Cybersecurity Enthusiast – exploring the world of cybersecurity. <br>--currently expanding skills in cybersecurity and networking
 
 
-Badge Markdown Link
 ![Visits](https://visitorbadge.vercel.app//api/badge/b5c5e6a8-ade4-4e81-a6df-47f0373b4f77?style=plastic&color=00ff40&labelColor=000000)
 
 
