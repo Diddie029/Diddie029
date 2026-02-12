@@ -2,6 +2,13 @@
 - 🌐Frontend Developer | Entry-Level Web Developer | Front-end developer .  <br>- 🖧 Network Administrator – managing and maintaining networks efficiently.  <br>- 🔒Cybersecurity Enthusiast – exploring the world of cybersecurity. <br>--currently expanding skills in cybersecurity and networking
 
 
+Generate badge
+Badge URL
+https://visitorbadge.vercel.app//api/badge/b5c5e6a8-ade4-4e81-a6df-47f0373b4f77?style=plastic&color=00ff40&labelColor=000000
+Badge Markdown Link
+![Visits](https://visitorbadge.vercel.app//api/badge/b5c5e6a8-ade4-4e81-a6df-47f0373b4f77?style=plastic&color=00ff40&labelColor=000000)
+
+
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/bleedingaura99.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1361777194589884677) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kiprotich-sawe-16b6a839a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bleeding_aura) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Jee_029) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiprotichsawe99@gmail.com) 
 
