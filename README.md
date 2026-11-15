@@ -1,8 +1,8 @@
 # 💫 About Me:
 -  IT Nugget.
 -  It's all about Tech/Dev
-
-
+-  DevOPs
+ 
 ![Visits](https://visitorbadge.vercel.app//api/badge/b5c5e6a8-ade4-4e81-a6df-47f0373b4f77?style=plastic&color=00ff40&labelColor=000000)
 
 
